@@ -11,5 +11,7 @@ To run this MERN app into your computer(localServer),
   3.Install all the dependies for the client side using npm install --save
   
   4.Run the App
+  
       for Server:npm run server
+      
       for Client:npm run client
