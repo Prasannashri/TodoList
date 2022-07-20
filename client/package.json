@@ -21,7 +21,7 @@
     "react-scripts": "^2.1.8",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
-    "terser": "^3.14.1",
+    "terser": "^4.8.1",
     "ua-parser-js": "^0.7.19"
   },
   "scripts": {
